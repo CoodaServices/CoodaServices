@@ -19,19 +19,29 @@ Conception de sites vitrines, de boutiques en ligne et d'applications métier su
 | Front-end | React, Next.js, JavaScript |
 | Infrastructure | Linux, Nginx, Docker, Cloudflare |
 
-### Réalisations
+### Réalisations en production
 
-**[Mecalib](https://mecalib.fr)** — en production
-Place de marché mettant en relation automobilistes et garages : dépôt de demande, diagnostic, devis et facturation. PHP 8, MySQL.
+**[Mecalib](https://mecalib.fr)**
+Place de marché mettant en relation automobilistes et garages : dépôt de demande, diagnostic assisté, devis et facturation. PHP 8, MySQL.
 
-**[Location saisonnière](https://cooda.fr/airbnb)** — démonstration
-Site de réservation avec paiement en ligne et synchronisation des calendriers Airbnb au format iCal.
-Code source : [`demo-location-saisonniere`](https://github.com/CoodaServices/demo-location-saisonniere).
+**[Perles de Nour](https://perlesdenour.fr)**
+Boutique en ligne d'articles personnalisés : configurateur de personnalisation, paiement en ligne, back-office de suivi des commandes. Node.js, SQLite.
 
-**[Wannasa](https://cooda.fr/wanassa)** — démonstration
+**[Metamoh](https://metamoh.fr)**
+Portail de jeux de société en ligne — échecs, dames, Scrabble, Monopoly, Uno, Puissance 4. Parties multijoueurs en temps réel, plusieurs services indépendants derrière un même domaine. Node.js, WebSocket.
+
+**[Atlas WL](https://atlas-fa.fr)**
+Site vitrine et boutique d'un serveur de jeu multijoueur : catalogue, paiement et espace joueur, adossés à une API de paiement tierce.
+
+### Démonstrations
+
+**[Location saisonnière](https://cooda.fr/airbnb)**
+Site de réservation pour meublé de tourisme : paiement en ligne et synchronisation des calendriers Airbnb au format iCal.
+
+**[Wannasa](https://cooda.fr/wanassa)**
 Site de prise de rendez-vous en quatre étapes avec interface d'administration. Next.js en export statique.
 
-Le portfolio complet est disponible sur [cooda.fr](https://cooda.fr), dont le code source est publié dans [`cooda-site`](https://github.com/CoodaServices/cooda-site).
+Le portfolio complet est disponible sur [cooda.fr](https://cooda.fr).
 
 ### Contact
 
