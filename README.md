@@ -4,6 +4,13 @@
 
 Nous concevons des sites vitrines, des boutiques e-commerce et des applications métier sur mesure — codés à la main, sans usine à gaz — et nous en assurons l'hébergement et l'infogérance en France.
 
+#### Ce que nous faisons
+
+- **Sites vitrines et e-commerce** — conception, rédaction, mise en ligne, référencement de base
+- **Applications métier** — gestion, suivi, facturation, espaces clients, outils internes
+- **Hébergement et infogérance** — serveurs en France, sauvegardes, mises à jour, correctifs de sécurité
+- **Reprise de l'existant** — refonte, migration, optimisation de performance et d'accessibilité
+
 #### Stack
 
 - **Back** : PHP 8, Node.js, PostgreSQL / MySQL / SQLite
@@ -23,4 +30,8 @@ Vitrine d'un salon de massage avec tunnel de réservation en quatre étapes et e
 
 D'autres réalisations sont visibles sur [cooda.fr](https://cooda.fr).
 
-📫 contact@cooda.fr
+#### Nous contacter
+
+- Site : [cooda.fr](https://cooda.fr)
+- E-mail : contact@cooda.fr
+- Devis gratuit, réponse sous 24 h ouvrées
