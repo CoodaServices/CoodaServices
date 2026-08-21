@@ -1,38 +1,39 @@
-## Cooda — développement web & hébergement
+## Cooda — développement web et hébergement
 
-**[Cooda](https://cooda.fr)** est un studio de développement web basé à Lyon.
+**[Cooda](https://cooda.fr)** est un studio de développement web établi à Villefranche-sur-Saône, dans la région lyonnaise.
 
-Nous concevons des sites vitrines, des boutiques e-commerce et des applications métier sur mesure — codés à la main, sans usine à gaz — et nous en assurons l'hébergement et l'infogérance en France.
+Conception de sites vitrines, de boutiques en ligne et d'applications métier sur mesure. Hébergement et infogérance assurés en France.
 
-### Ce que nous faisons
+### Domaines d'intervention
 
-- **Sites vitrines et e-commerce** — conception, rédaction, mise en ligne, référencement de base
-- **Applications métier** — gestion, suivi, facturation, espaces clients, outils internes
+- **Sites vitrines et e-commerce** — conception, intégration, mise en ligne, référencement technique
+- **Applications métier** — gestion, suivi d'activité, facturation, espaces clients, outils internes
 - **Hébergement et infogérance** — serveurs en France, sauvegardes, mises à jour, correctifs de sécurité
-- **Reprise de l'existant** — refonte, migration, optimisation de performance et d'accessibilité
+- **Reprise de l'existant** — refonte, migration, optimisation des performances et de l'accessibilité
 
-### Stack
+### Technologies
 
-- **Back** : PHP 8, Node.js, PostgreSQL / MySQL / SQLite
-- **Front** : React, Next.js, HTML/CSS/JS vanilla
-- **Infra** : Linux, Nginx, Docker, Cloudflare
+| | |
+|---|---|
+| Back-end | PHP 8, Node.js, PostgreSQL, MySQL, SQLite |
+| Front-end | React, Next.js, JavaScript |
+| Infrastructure | Linux, Nginx, Docker, Cloudflare |
 
 ### Réalisations
 
 **[Mecalib](https://mecalib.fr)** — en production
-Place de marché entre automobilistes et garages : dépôt de demande, mise en relation, devis et factures. PHP 8 + MySQL.
+Place de marché mettant en relation automobilistes et garages : dépôt de demande, diagnostic, devis et facturation. PHP 8, MySQL.
 
 **[Location saisonnière](https://cooda.fr/airbnb)** — démonstration
-Vitrine d'hébergement avec moteur de réservation, paiement en ligne et synchronisation des calendriers Airbnb par iCal.
-Le code est ici : [`demo-location-saisonniere`](https://github.com/CoodaServices/demo-location-saisonniere).
+Site de réservation avec paiement en ligne et synchronisation des calendriers Airbnb au format iCal.
+Code source : [`demo-location-saisonniere`](https://github.com/CoodaServices/demo-location-saisonniere).
 
 **[Wannasa](https://cooda.fr/wanassa)** — démonstration
-Vitrine d'un salon de massage avec tunnel de réservation en quatre étapes et espace d'administration. Next.js en export statique.
+Site de prise de rendez-vous en quatre étapes avec interface d'administration. Next.js en export statique.
 
-D'autres réalisations sont visibles sur [cooda.fr](https://cooda.fr) — dont le site lui-même, dont le code est publié dans [`cooda-site`](https://github.com/CoodaServices/cooda-site).
+Le portfolio complet est disponible sur [cooda.fr](https://cooda.fr), dont le code source est publié dans [`cooda-site`](https://github.com/CoodaServices/cooda-site).
 
-### Nous contacter
+### Contact
 
 - Site : [cooda.fr](https://cooda.fr)
 - E-mail : contact@cooda.fr
-- Devis gratuit, réponse sous 24 h ouvrées
