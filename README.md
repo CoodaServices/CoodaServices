@@ -1,6 +1,6 @@
 ## Cooda — développement web et hébergement
 
-**[Cooda](https://cooda.fr)** est un studio de développement web établi à Villefranche-sur-Saône, dans la région lyonnaise.
+**[Cooda](https://cooda.fr)** est un studio de développement web basé à Lyon.
 
 Conception de sites vitrines, de boutiques en ligne et d'applications métier sur mesure. Hébergement et infogérance assurés en France.
 
