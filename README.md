@@ -1,8 +1,8 @@
-### Salut, moi c'est Mohamed 👋
+### Cooda — développement web & hébergement
 
-Développeur web freelance à Villefranche-sur-Saône, sous l'enseigne **[Cooda](https://cooda.fr)**.
+**[Cooda](https://cooda.fr)** est un studio de développement web basé à Villefranche-sur-Saône, en France.
 
-Je conçois des sites vitrines, des boutiques e-commerce et des applications métier sur mesure — codés à la main, sans usine à gaz — et j'en assure l'hébergement et l'infogérance en France.
+Nous concevons des sites vitrines, des boutiques e-commerce et des applications métier sur mesure — codés à la main, sans usine à gaz — et nous en assurons l'hébergement et l'infogérance en France.
 
 #### Stack
 
