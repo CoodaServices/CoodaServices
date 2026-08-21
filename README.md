@@ -10,8 +10,20 @@ Nous concevons des sites vitrines, des boutiques e-commerce et des applications 
 - **Front** : React, Next.js, HTML/CSS/JS vanilla
 - **Infra** : Linux, Nginx, Docker, Cloudflare
 
-#### Projets
+#### Réalisations
 
-Les dépôts arriveront ici au fur et à mesure. En attendant, quelques réalisations sont visibles sur [cooda.fr](https://cooda.fr).
+**[Mecalib](https://mecalib.fr)** — en production
+Place de marché entre automobilistes et garages : dépôt de demande, mise en relation, devis et factures. PHP 8 + MySQL.
+
+**[GestiLoc](https://cooda.fr/testapp14)** — démonstration
+Gestion locative pour bailleurs : biens, baux, échéances automatiques, quittances en PDF et tableau de bord. Node.js + SQLite.
+
+**[Location saisonnière](https://cooda.fr/airbnb)** — démonstration
+Vitrine d'hébergement avec moteur de réservation, paiement en ligne et synchronisation des calendriers Airbnb par iCal.
+
+**[Wannasa](https://cooda.fr/wanassa)** — démonstration
+Vitrine d'un salon de massage avec tunnel de réservation en quatre étapes et espace d'administration. Next.js en export statique.
+
+D'autres réalisations sont visibles sur [cooda.fr](https://cooda.fr).
 
 📫 contact@cooda.fr
