@@ -1,36 +1,37 @@
-### Cooda — développement web & hébergement
+## Cooda — développement web & hébergement
 
-**[Cooda](https://cooda.fr)** est un studio de développement web basé à Villefranche-sur-Saône, en France.
+**[Cooda](https://cooda.fr)** est un studio de développement web basé à Lyon.
 
 Nous concevons des sites vitrines, des boutiques e-commerce et des applications métier sur mesure — codés à la main, sans usine à gaz — et nous en assurons l'hébergement et l'infogérance en France.
 
-#### Ce que nous faisons
+### Ce que nous faisons
 
 - **Sites vitrines et e-commerce** — conception, rédaction, mise en ligne, référencement de base
 - **Applications métier** — gestion, suivi, facturation, espaces clients, outils internes
 - **Hébergement et infogérance** — serveurs en France, sauvegardes, mises à jour, correctifs de sécurité
 - **Reprise de l'existant** — refonte, migration, optimisation de performance et d'accessibilité
 
-#### Stack
+### Stack
 
 - **Back** : PHP 8, Node.js, PostgreSQL / MySQL / SQLite
 - **Front** : React, Next.js, HTML/CSS/JS vanilla
 - **Infra** : Linux, Nginx, Docker, Cloudflare
 
-#### Réalisations
+### Réalisations
 
 **[Mecalib](https://mecalib.fr)** — en production
 Place de marché entre automobilistes et garages : dépôt de demande, mise en relation, devis et factures. PHP 8 + MySQL.
 
 **[Location saisonnière](https://cooda.fr/airbnb)** — démonstration
 Vitrine d'hébergement avec moteur de réservation, paiement en ligne et synchronisation des calendriers Airbnb par iCal.
+Le code est ici : [`demo-location-saisonniere`](https://github.com/CoodaServices/demo-location-saisonniere).
 
 **[Wannasa](https://cooda.fr/wanassa)** — démonstration
 Vitrine d'un salon de massage avec tunnel de réservation en quatre étapes et espace d'administration. Next.js en export statique.
 
-D'autres réalisations sont visibles sur [cooda.fr](https://cooda.fr).
+D'autres réalisations sont visibles sur [cooda.fr](https://cooda.fr) — dont le site lui-même, dont le code est publié dans [`cooda-site`](https://github.com/CoodaServices/cooda-site).
 
-#### Nous contacter
+### Nous contacter
 
 - Site : [cooda.fr](https://cooda.fr)
 - E-mail : contact@cooda.fr
