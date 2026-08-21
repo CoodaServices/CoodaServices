@@ -15,9 +15,6 @@ Nous concevons des sites vitrines, des boutiques e-commerce et des applications 
 **[Mecalib](https://mecalib.fr)** — en production
 Place de marché entre automobilistes et garages : dépôt de demande, mise en relation, devis et factures. PHP 8 + MySQL.
 
-**[GestiLoc](https://cooda.fr/testapp14)** — démonstration
-Gestion locative pour bailleurs : biens, baux, échéances automatiques, quittances en PDF et tableau de bord. Node.js + SQLite.
-
 **[Location saisonnière](https://cooda.fr/airbnb)** — démonstration
 Vitrine d'hébergement avec moteur de réservation, paiement en ligne et synchronisation des calendriers Airbnb par iCal.
 
